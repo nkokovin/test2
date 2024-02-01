@@ -1,0 +1,25 @@
+[33mcommit 36d28403218ed1ec353cfa47b80bad4c49897eed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: nkokovin <kokovin-nikita@mail.ru>
+Date:   Thu Feb 1 18:39:54 2024 +0300
+
+    My first commit
+
+[33mcommit 3bc59de1a6bb273e1f4fe103cf17153b9d03a8d8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nkokovin <156698968+nkokovin@users.noreply.github.com>
+Date:   Thu Feb 1 17:52:45 2024 +0300
+
+    Delete file1.txt
+
+[33mcommit d2293df28d2fa57572804e145f306bb002b400d7[m
+Author: nkokovin <156698968+nkokovin@users.noreply.github.com>
+Date:   Thu Feb 1 17:51:49 2024 +0300
+
+    Update file1.txt
+
+[33mcommit bd57ce2a0b4b9aa380496f03837af5ae75e89475[m
+Author: nkokovin <156698968+nkokovin@users.noreply.github.com>
+Date:   Thu Feb 1 17:50:32 2024 +0300
+
+    Create file1.txt
+    
+    Add file1
